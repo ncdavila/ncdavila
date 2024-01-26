@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently a PhD student in the Postgraduate Program in Computer Science at the Federal University of Rio Grande do Sul (UFRGS).
+
+💻 I have seven years of professional experience in software engineering as a developer, analyst, and Scrum Master in a Brazilian company.
+
+🌱 I’m currently learning web application technologies, including frameworks such as React and Angular.
